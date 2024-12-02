@@ -12,7 +12,7 @@ Instrucciones para instalar
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/JonathanP06511/calculadora.git
+git clone https://github.com/alexismendozaa/calculadora.git
 
 # Ejecutar la aplicación
 python app.py
